@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;XLUtils.java&apos; to &apos;Guru99TestNG/src/main/java/com.qa.utility&apos;&#x0D;&#x0A;- Original project: &apos;Banking_mini_project&apos;&#x0D;&#x0A;- Destination element: &apos;Guru99TestNG/src/main/java/com.qa.utility&apos;&#x0D;&#x0A;- Original element: &apos;com.banking.utilities.XLUtils.java&apos;" description="Copy compilation unit" destination="=Guru99TestNG/src\/main\/java&lt;com.qa.utility" element1="/src\/test\/java&lt;com.banking.utilities{XLUtils.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1589603845716" units="1" version="1.0"/>
+</session>

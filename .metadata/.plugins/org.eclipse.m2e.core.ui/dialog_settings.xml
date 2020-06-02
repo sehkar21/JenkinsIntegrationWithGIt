@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="D:\GitHub Import\realtime\automation-testing-with-java-and-selenium"/>
+			<item value="D:\New folder\projectworkplace\Banking_mini_project"/>
+			<item value="D:\New folder\projectworkplace\cucumber_Guru_telecom"/>
+			<item value="D:\GitHub Import\TestNGcogmetoapril2020"/>
+			<item value="D:\New folder\New Projects\Interview programs\Interview_programs\interviewprgs"/>
+			<item value="D:\New folder\projectworkplace\HexawareInterviewQuestions"/>
+			<item value="D:\New folder\New Projects\hexaware-delta"/>
+			<item value="D:\New folder\New Projects\Naveen_learning"/>
+			<item value="D:\GitHub Import\cucumber_april2020\Cucumber_Extent"/>
+			<item value="D:\GitHub Import\TestNG_Allure_best"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\sehkar\eclipse-workspace\Hubspot-TestNG\pom.xml"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="ScreenRecording.ScreenRecording"/>
+			<item value="Guru99TestNG.Guru99TestNG"/>
+			<item value="SeleniumGrid.SeleniumGrid"/>
+			<item value="Selenium4Features.Selenium4Features"/>
+			<item value="Hubspot_TestNG.Hubspot_TestNG"/>
+		</list>
+		<list key="groupId">
+			<item value="ScreenRecording"/>
+			<item value="Guru99TestNG"/>
+			<item value="SeleniumGrid"/>
+			<item value="Selenium4Features"/>
+			<item value="Hubspot-TestNG"/>
+		</list>
+		<list key="artifactId">
+			<item value="ScreenRecording"/>
+			<item value="Guru99TestNG"/>
+			<item value="SeleniumGrid"/>
+			<item value="Selenium4Features"/>
+			<item value="Hubspot-TestNG"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>
